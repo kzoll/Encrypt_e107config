@@ -95,5 +95,4 @@ NOTE: If your path changes then you have to rerun the program.
 
 Do NOT use the same password for your database as you use for your FTP login or for e107 login.
 
-When editing e107_config.php, make sure that the last line contains only 2 characters:
-?>
+When editing e107_config.php, make sure that the last line contains only 2 characters: ?>
